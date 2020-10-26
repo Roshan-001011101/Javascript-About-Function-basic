@@ -1,1 +1,22 @@
-hello world
+WHAT ARE FUNCTIONS?
+Functions are basically the control of all procedures working under the bracket {}.
+It consists of two or more arguments (integers or strings) which shows the program that the code is related to these parameters and thus helps the program to execute the function.
+The function consists of () in which the code is implemented so that the code inside the function ()can be executed.
+Create a output variable and store the result in it.
+
+SOME EXAMPLES.....
+
+Q1.Create a function and implement the sum of two integers within those brackets and execute the function!!
+
+function input(x,y){
+var a=x;
+var b=y;
+var sum=(x+y);
+
+var s=(sum);
+return s;
+}
+input();
+
+
+
